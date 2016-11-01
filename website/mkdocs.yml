@@ -1,9 +1,0 @@
-site_name: CRAZYFOX
-repo_name: GitHub
-repo_url: https://github.com/CardInfoLink/Smart-POS
-pages:
-- [index.md, HOME]
-- [documents.md, DOCS]
-- [download.md, DOWNLOADS]
-- [about.md, ABOUT]
-theme: mkdocs
